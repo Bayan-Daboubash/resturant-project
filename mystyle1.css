@@ -1,0 +1,13 @@
+.jumbotron{
+    background-image: url(j.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 2200px;
+    width: 100%;
+    background-attachment: fixed;
+    background-color: white;
+}
+
+
+
+
